@@ -1,0 +1,27 @@
+body {
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+}
+
+.same {
+    object-fit: contain;
+    height: 300px;
+    padding-top: 5px;
+}
+
+.blurb h1 {
+   color: #a5565c;
+   font-weight: 300;
+   font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #706f70;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+
+
+
